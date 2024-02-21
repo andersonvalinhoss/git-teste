@@ -13,6 +13,7 @@ do curso Versionamento de Código com Git e GitHub da [Digital Innovation one](h
 | Aulas | Resumos |
 |--------|--------|
 |Gravando Alterações no Reposotório Local | [Resumos]() |
+|Gravando Alterações no Reposotório Local | [Resumos]() |
 
 ```
 Git Init
